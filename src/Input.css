@@ -1,0 +1,10 @@
+label {
+    position: absolute;
+    left: -99999px;
+}
+
+button, input {
+    display: block;
+    width: 12rem;
+    margin: 1rem;
+}
